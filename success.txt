@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Success</title>
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
+        <style>
+            #cen{text-align: center;}
+             footer{text-align: center;
+            padding: 10px 0;
+            background-color: #101010;
+            color: #9d9d9d;
+            bottom: 0;
+            width: 100%;}
+            </style>
+    </head>
+    <body>
+        <h1 id="cen">Your order is confirmed</h1><br><br>
+    <p id="cen">Thank you for shopping with us.</p>
+    <p id="cen">Your order is:#1450003</p>
+    <p id="cen">You will receive an order confirmation email with details of your order and a link to track it. </p><br>
+    <p id="cen"><a href="products.html"> <button class="btn btn-primary">Continue Shopping</button></a></p>
+    </body>
